@@ -1,7 +1,7 @@
 function helloWorld(phrase){
-console.log("Hello World");
+console.log(phrase);
 }
-const phrase = helloWorld("Hello World");
+const hello = helloWorld("Hello World");
 
 
 function paramEntry (a){
