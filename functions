@@ -1,0 +1,21 @@
+function helloWorld(phrase){
+console.log("Hello World");
+}
+const phrase = helloWorld("Hello World");
+
+
+function paramEntry (a){
+    console.log (a);
+}
+const result= paramEntry(4);
+
+function addition (a){
+    console.log (a + a) ;
+}
+const resultadd= addition(4);
+
+
+function multiplication(b,c){
+    console.log(b * c);
+}
+const multipli = multiplication(5,6);
